@@ -1,2 +1,2 @@
 # handlebarsPractice
-Practice for pushing content to github using terminal.
+# Practice for pushing content to github using terminal.
