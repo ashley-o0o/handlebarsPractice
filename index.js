@@ -12,7 +12,8 @@ app.use(express.static(__dirname + "/views"));
 app.get("/", function(req, res) {
   res.render("home", {
     title: "Hello World",
-    content: "This is an example of Express with Handlebars"
+    content: "This is an example of Express with Handlebars",
+    pets: "I have three cats named Zoe, Dixie, and Minnow"
   });
 });
 
